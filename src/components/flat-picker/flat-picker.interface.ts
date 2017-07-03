@@ -32,4 +32,5 @@ export interface FlatpickrOptions {
     utc?: boolean;
     weekNumbers?: boolean;
     wrap?: boolean;
+    locale?: any;
 }
